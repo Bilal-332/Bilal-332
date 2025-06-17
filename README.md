@@ -1,14 +1,46 @@
-<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20.png"/>
- <hr></hr>
-<p align="center">
-  <samp>
-    Hi, I'm Saad! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en<br>
-  :briefcase: Building https://www.refactornow.dev/ - Learn the Art of Refactoring <br>
+<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-  </samp>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadbilal123&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadbilal123" />
+</p>
+
+- 🔭 I’m currently working on **a MERN-based Multi-vendor Marketplace**
+
+- 🌱 I’m currently learning **Next.js, Supabase, AI Integrations**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://your-portfolio-link.com)
+
+- 💬 Ask me about **React, Node.js, Firebase, MongoDB, Tailwind**
+
+- 📫 How to reach me **muhammadbilal@example.com**
+
+- 📄 Know about my experiences: [Resume](https://your-resume-link.com)
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,typescript,js,ts,firebase,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbilal123&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilal123&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilal123&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
+<a href="mailto:muhammadbilal@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
 </p>
