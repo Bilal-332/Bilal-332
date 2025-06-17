@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Bilal-332&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Crazy Cat Coding" width="300" />
+</p>
+
+
 ---
 
 ### 👨‍💻 About Me
