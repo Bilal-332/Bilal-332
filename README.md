@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gifdb.com/serious-purple-typing-cat-k07hmiokp97s2o3b.gif" alt="Fast Typing Cat" width="300" />
+  <img src="https://user-images.githubusercontent.com/11247099/187088366-4b51698c-5518-4fdd-b464-1c3a22816962.gif" alt="Fast Coding Cat" width="300" />
 </p>
 
 
