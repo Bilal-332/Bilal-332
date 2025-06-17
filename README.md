@@ -30,9 +30,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bilal-332&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bilal-332&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-332&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-332&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
