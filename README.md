@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Node.js, Firebase, MongoDB, Tailwind**
 
-- 📫 How to reach me **muhammadbilal@example.com**
+- 📫 How to reach me **bilalkhan33293@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WVh2eDexZ4-nKILfpnGlZ562m-RJXIbD/view?usp=drive_link)
 
