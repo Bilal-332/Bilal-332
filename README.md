@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next.js, Supabase, AI Integrations**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bilal-portfolio-mu.vercel.app/)
 
 - 💬 Ask me about **React, Node.js, Firebase, MongoDB, Tailwind**
 
 - 📫 How to reach me **muhammadbilal@example.com**
 
-- 📄 Know about my experiences: [Resume](https://your-resume-link.com)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WVh2eDexZ4-nKILfpnGlZ562m-RJXIbD/view?usp=drive_link)
 
 ---
 
@@ -28,19 +28,19 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbilal123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-332&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilal123&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-332&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilal123&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-332&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-<a href="mailto:muhammadbilal@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
+<a href="https://linkedin.com/in/Bilal-332" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
+<a href="mailto:bilalkhan33293@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
 </p>
