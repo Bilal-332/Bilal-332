@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" alt="Cat Coding" width="300" />
+  <img src="https://gifdb.com/serious-purple-typing-cat-k07hmiokp97s2o3b.gif" alt="Fast Typing Cat" width="300" />
 </p>
 
 
