@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="300" style="border-radius: 12px;" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cat-coding.gif" alt="Cat Coding" width="300" style="border-radius: 12px;" />
 </p>
+
 
 
 
