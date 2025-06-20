@@ -2,13 +2,12 @@
 <h3 align="center">🚀 Full Stack MERN Developer | 🔍 Lifelong Learner | 🌍 Based in Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bilal-332&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-500-blueviolet?style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cat-coding.gif" alt="Cat Coding" width="300" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fast Coding Cat" width="300" style="border-radius: 12px;" />
 </p>
-
 
 
 
