@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fast Coding Cat" width="300" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fast Coding Cat" width="300" style="border-radius: 100;" />
 </p>
 
 
