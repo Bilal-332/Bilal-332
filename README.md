@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11247099/187088366-4b51698c-5518-4fdd-b464-1c3a22816962.gif" alt="Fast Coding Cat" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fast Coding Cat" width="300" />
 </p>
-
 
 ---
 
@@ -42,8 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-332&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
-
-
 
 ---
 
