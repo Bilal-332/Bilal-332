@@ -17,7 +17,7 @@
 
 - 🔭 Currently working on **a Multi-Vendor MERN Marketplace**
 - 🌱 Exploring **Next.js, Supabase, AI Integrations**
-- 💬 Ask me about **React, Node.js, Firebase, MongoDB, TailwindCSS**
+- 💬 Ask me about **React, Node.js, Firebase, MongoDB, TailwindCSS and many more...**
 - 📫 Reach me at: **[bilalkhan33293@gmail.com](mailto:bilalkhan33293@gmail.com)**
 - 📄 [My Resume](https://drive.google.com/file/d/1WVh2eDexZ4-nKILfpnGlZ562m-RJXIbD/view?usp=drive_link)
 - 🌐 [My Portfolio](https://bilal-portfolio-mu.vercel.app/)
@@ -27,8 +27,9 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,redux,postgres,prisma,graphql,docker,vercel,netlify,figma,html,css,sass,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,redux,postgres,prisma,graphql,docker,vercel,netlify,figma,html,css,sass,linux,socket,nginx,redis,webpack,jest,postman,python,bash" />
 </p>
+
 
 
 ---
