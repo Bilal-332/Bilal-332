@@ -27,7 +27,9 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,redux,postgres,prisma,graphql,docker,vercel,netlify,figma,html,css,sass,linux,socket,nginx,redis,webpack,jest,postman,python,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,vue,redux,webpack,vite,nodejs,express,mongodb,mysql,postgres,prisma,firebase,supabase,graphql,redis,git,github,vscode,postman,figma,vercel,netlify,heroku,socket,vitest,python,bash,api" />
+</p>
+
 </p>
 
 
