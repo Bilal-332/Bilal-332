@@ -9,22 +9,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fast Coding Cat" width="300" style="border-radius: 12px;" />
 </p>
 
-
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **a Multi-Vendor MERN Marketplace** and many more..
-- 🌱 Exploring **Next.js, Supabase, AI Integrations**
-- 💬 Ask me about **React, Node.js, Firebase, MongoDB, TailwindCSS and many more...**
-- 📫 Reach me at: **[bilalkhan33293@gmail.com](mailto:bilalkhan33293@gmail.com)**
-- 📄 [My Resume](https://drive.google.com/file/d/1WVh2eDexZ4-nKILfpnGlZ562m-RJXIbD/view?usp=drive_link)
+- 🔭 Currently building a **Multi-Vendor MERN Marketplace** and exploring exciting side projects.  
+- 🌱 Learning **Next.js, Supabase, and AI integrations** to stay ahead in the tech world.  
+- ❓ Ask me about **React, Node.js, Firebase, MongoDB, TailwindCSS, and anything MERN**  
+- 📫 Reach me at: **[bilalkhan33293@gmail.com](mailto:bilalkhan33293@gmail.com)**  
+- 📄 [My Resume](https://drive.google.com/file/d/1WVh2eDexZ4-nKILfpnGlZ562m-RJXIbD/view?usp=drive_link)  
 - 🌐 [My Portfolio](https://bilal-portfolio-mu.vercel.app/)
 
 ---
 
-### <h3>🛠️ Tech Stack</h3>
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
@@ -61,8 +59,54 @@
   <img src="https://skillicons.dev/icons?i=api" title="API" />
 </p>
 
+---
 
+### 🚀 Projects Showcase
 
+Here are a few highlights of the projects I’ve worked on:
+
+- 🛍️ **Multi-Vendor Marketplace** – Complete e-commerce MERN app with admin & seller dashboards.  
+- 📅 **Event Booking Platform** – Built with Next.js and Supabase.  
+- 💬 **Real-time Chat App** – Firebase + React with Auth and notifications.  
+- 🤖 **AI Blog Summarizer** – Integrates GPT API with React for blog analysis.  
+
+> Want more? Check out my [portfolio](https://bilal-portfolio-mu.vercel.app/)!
+
+---
+
+### 🧠 My Learning Path
+
+- 🔷 Currently mastering **NextAuth**, **Edge Functions**, and **Zustand**
+- 🧠 Exploring **AI Integrations** (OpenAI, Gemini, LangChain)
+- 🛡️ Diving deeper into **API Security** and **OAuth**
+
+---
+
+### 📚 Certifications & Courses
+
+- 🏅 Meta Front-End Developer – Coursera  
+- 📜 Advanced React & Redux – Udemy  
+- 🧪 REST API Testing with Postman – freeCodeCamp  
+- 🧠 JavaScript Algorithms & Data Structures – freeCodeCamp  
+
+---
+
+### 💡 Featured Blog Posts
+
+- [⚛️ Why React Still Rules the Frontend in 2025](#)  
+- [🧠 Thinking in Components — Real-World Advice](#)  
+- [🔐 Secure Your Node.js APIs Like a Pro](#)  
+
+> ✍️ More coming soon on my [Hashnode](#) or [Medium](#)!
+
+---
+
+### 🎯 2025 Goals
+
+- 🚀 Launch my first SaaS product  
+- 📈 Contribute to 3 major open source projects  
+- 🎓 Give my first public tech talk  
+- 🧑‍🏫 Start mentoring junior developers  
 
 ---
 
@@ -76,6 +120,14 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-332&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-332&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
