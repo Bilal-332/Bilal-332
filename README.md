@@ -81,6 +81,13 @@ Here are a few highlights of the projects I’ve worked on:
 - 🛡️ Diving deeper into **API Security** and **OAuth**
 
 ---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-332&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
 
 ### 📚 Certifications & Courses
 
@@ -124,13 +131,7 @@ Here are a few highlights of the projects I’ve worked on:
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-332&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 
