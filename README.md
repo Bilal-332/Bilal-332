@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | 🔍 Lifelong Learner | 🌍 Based in Pakistan</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | 🔍 Lifelong Learner | Mern Stack </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-500-blueviolet?style=flat-square" alt="Profile Views" />
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **a Multi-Vendor MERN Marketplace**
+- 🔭 Currently working on **a Multi-Vendor MERN Marketplace** and many more..
 - 🌱 Exploring **Next.js, Supabase, AI Integrations**
 - 💬 Ask me about **React, Node.js, Firebase, MongoDB, TailwindCSS and many more...**
 - 📫 Reach me at: **[bilalkhan33293@gmail.com](mailto:bilalkhan33293@gmail.com)**
@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,vue,redux,webpack,vite,nodejs,express,mongodb,mysql,postgres,prisma,firebase,supabase,graphql,redis,git,github,vscode,postman,figma,vercel,netlify,heroku,socket,vitest,python,bash,api" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,vue,redux,webpack,vite,nodejs,express,mongodb,mysql,postgres,firebase,supabase,graphql,git,github,vscode,postman,figma,vercel,netlify,heroku,python,bash,api" />
 </p>
 
 </p>
