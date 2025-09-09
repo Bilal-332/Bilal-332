@@ -60,7 +60,7 @@ Here are a few highlights of the projects I’ve worked on:
 - 💬 **Real-time Chat App** – Firebase + React with Auth and notifications.  
 - 🤖 **AI Blog Summarizer** – Integrates GPT API with React for blog analysis.  
 
-> Want more? Check out my [portfolio](https://bilal-portfolio-mu.vercel.app/)!
+> Want more? Check out my [portfolio](https://bilal-maneri-portfolio.vercel.app/)!
 
 ---
 
