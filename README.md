@@ -98,7 +98,7 @@ Here are a few highlights of the projects I’ve worked on:
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026-27 Goals
 
 - 🚀 Launch my first SaaS product  
 - 📈 Contribute to 3 major open source projects  
