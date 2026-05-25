@@ -26,6 +26,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="Typescript" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=next" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
@@ -40,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
